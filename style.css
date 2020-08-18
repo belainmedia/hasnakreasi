@@ -26,7 +26,9 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
-
+.nav__item-link:hover{
+  color: #ff5e14;
+}
 ::selection {
   background-color: #ff5e14;
   color: #ffffff;
