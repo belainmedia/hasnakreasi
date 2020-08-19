@@ -138,6 +138,9 @@ select {
   -o-transform: translateY(-50%);
   transform: translateY(-50%);
 }
+.font-size37{
+  font-size: 37px !important;
+}
 
 .background-banner {
   min-height: 500px;
